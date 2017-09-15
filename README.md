@@ -7,4 +7,4 @@
 | [Potatso](https://itunes.apple.com/app/id1162704202) | [Take](https://itunes.apple.com/app/id1176857712) | [Liu Deng](http://weibo.com/iostake) |
 | [TodayMind](https://itunes.apple.com/app/id1207158665) | [1Todo](https://itunes.apple.com/app/id1209815313) | [TUANANH VUONG](https://1began.com/) |
 
-Pull requests are welcome! let's make the world better ❤️.
+Pull requests are welcome! Let's make the world better ❤️.
